@@ -1,0 +1,7 @@
+// Recommended starting settings:
+RiskPercent = 1.0
+MaxDailyLossPercent = 3.0  
+MaxTradesPerDay = 25
+EnablePythonSignals = true
+MinSignalConfidence = 0.65
+UseKellySizing = true
